@@ -31,7 +31,7 @@ files:
 - 'README.md'
 
 - 'CodeBook.md'
-- 
+
 - 'run_analysis.R': download and process the data base on instructions.
 
 - 'tidy_data.txt' : the prossed data base on instruction
