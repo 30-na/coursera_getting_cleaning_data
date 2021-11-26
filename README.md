@@ -44,7 +44,7 @@ files:
 
 - 'test/y_test.txt': Test labels.
 
-- 'tiny.txt' : the prossed data base on instruction
+- 'tidy.txt' : the prossed data base on instruction
 
 The following files are available for the train and test data. Their descriptions are equivalent. 
 
