@@ -26,9 +26,9 @@ For each record it is provided:
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
-- 'features_info.txt': Shows information about the variables used on the feature vector.
+- 'run_analysis.R': download and process the data base on instructions.
 
 - 'features.txt': List of all features.
 
